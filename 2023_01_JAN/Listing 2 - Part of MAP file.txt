@@ -1,0 +1,3 @@
+ *(.data)
+ .data          0x0000000020000000        0x8 objdir-CW308_STM32F0/simpleserial-base.o
+                0x0000000020000000                test_value
