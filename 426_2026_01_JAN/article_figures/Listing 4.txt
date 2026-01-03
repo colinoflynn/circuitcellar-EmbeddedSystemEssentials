@@ -1,0 +1,4 @@
+  62 :b'INVALID PASSWORD\r\nPassword Please:\r\n'
+  63 :b'INVALID PASSWORD\r\nPassword Please:\r\nINVALID PASSWORD\r\nPassword Please:\r\n'
+  64 :b'INVALID PASSWORD\r\nPassword Please:\r\n'
+  65 :b'ACCESS GRANTED - WELCOME\r\n'
